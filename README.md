@@ -145,12 +145,6 @@ We understand that our app may not be suitable for you for various reasons!<p>
     <img src="https://i.ibb.co/FzhZN8L/license-Tools.png" alt="AllInOne Social Media Multiple Accounts Manage Pro license-Tools" border="0">
   </a>
  
- 
-<h2><strong>Review</strong></h2>
-<p>hi bro, your review gives us<strong> unlimited power to update</strong>, please don't forget the <strong>5-star review!</strong></p>
-  <a href="https://codecanyon.net/item/telegram-bulk-senderextractscraperinvite-market-pro/reviews/41673729" rel="nofollow">
-   <img src="https://i.ibb.co/fCMcDQh/review.png" alt="" border="0"/>
-  </a>
 
 
  
