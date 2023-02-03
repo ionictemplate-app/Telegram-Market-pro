@@ -3,16 +3,9 @@
 get here: <a href="https://codecanyon.net/item/telegram-bulk-senderextractscraperinvite-market-pro/41673729" target="_blank">Telegram Bulk Sender|Extract|Scraper|Invite Market Pro</a>
 
 <h2><strong>Online Support</strong></h2>
-<table>
-<tr>
-   
-    <td>
-    <a href="https://t.me/IonicSupport" rel="nofollow">
+  <a href="https://t.me/IonicSupport" rel="nofollow">
        <img src="https://i.ibb.co/QNgG46g/tg2.png" alt="tg2" border="0">
     </a>
-   </td>
-</tr>
-</table>
 
 <p><strong>Telegram Marketing  Tools </strong> contains all daily feature to help you grow your clients.</p> 
 <p>Bulk Account Manage,Bulk Message,Bulk Send Message,Bulk Extract Members, Bulk Invite Members etc</P> 
