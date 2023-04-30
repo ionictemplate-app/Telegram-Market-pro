@@ -1,6 +1,6 @@
 
-<h2><strong>Telegram Bulk Sender|Extract|Scraper|Invite Market Pro 2.0.1</strong></h2>
-get here: <a href="https://codecanyon.net/item/telegram-marketing-scraper-and-invite-bulk-sender/39700283" target="_blank">Telegram Bulk Sender|Extract|Scraper|Invite Market Pro</a>
+<h2><strong>Telegram Marketing Scraper and Invite |Group|Channel|Users|Bulk Sender 8.0.3</strong></h2>
+get here: <a href="https://codecanyon.net/item/telegram-marketing-scraper-and-invite-bulk-sender/39700283" target="_blank">Telegram Marketing Scraper and Invite |Group|Channel|Users|Bulk Sender</a>
 
 <h2><strong>Online Support</strong></h2>
     <a href="https://t.me/galaxystudioM" rel="nofollow">
@@ -9,7 +9,6 @@ get here: <a href="https://codecanyon.net/item/telegram-marketing-scraper-and-in
    
  
 
- <h2><strong>Telegram Marketing Scraper and Invite |Group|Channel|Users|Bulk Sender 8.0.3</strong></h2>
 <p><strong>Telegram Marketing  Tools</strong> contains all the common telegram feature, 
 to help you simplify your work and expand your market. 
 Contains commonly used bulk messages, bulk scrape members, bulk join groups, bulk invites and more! 
